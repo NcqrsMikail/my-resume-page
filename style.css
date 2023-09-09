@@ -1,0 +1,24 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+ /*  color: #0abab5;*/
+ /*  background-color: white;*/
+ /*  opacity: 0.3;*/
+     background-image: url("minecraft.jpg");
+     background-repeat: no-repeat;
+
+}
+
+h2 {
+  color: cyan;
+  text-decoration: underline;
+}
+
+.main-title {
+	color: blue;
+}
+
+p {
+  text-align: center;
+  letter-spacing: 5px;
+}
